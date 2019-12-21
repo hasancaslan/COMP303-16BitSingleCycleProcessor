@@ -10,9 +10,9 @@ signals, description of our design and custom instruction is in
 3. Test programs: instruction files are in,
 16_Bit_Single_Cycle_Processor/test_program/test_program_code.txt,
 data files are in,
-16_Bit_Single_Cycle_Processor/test_program/test_program_data.txt
+16_Bit_Single_Cycle_Processor/test_program/test_program_data.txt,
 their assembly codes and trace in, 
-16_Bit_Single_Cycle_Processor/test_program/test_program_asm.txt,
+16_Bit_Single_Cycle_Processor/test_program/test_program_asm.txt.
 
 4. Trace of the test programs, demonstrating that correct result was 
 obtained is also in the Project Report.
