@@ -1,4 +1,4 @@
-16_Bit_Single_Cycle_Processor
+16-Bit Single-Cycle Processor
 
 1. The final processor design file (.circ format) is 
 COMP303_TermProject_Hasan_Can_ASLAN_Nursena_KÖPRÜCÜ2.circ
